@@ -1,5 +1,9 @@
 # my-pwa-test
 
+## Refer to
+https://codelabs.developers.google.com/codelabs/workbox-lab/#0   
+git clone https://github.com/googlecodelabs/workbox-lab.git
+
 ## Project setup
 ```
 yarn install
